@@ -10,7 +10,6 @@ module.exports = class SomeStylesheetCompiler
       path.=replace /\\/g '/' #'
       callback null, if path in @files
         data
-      else
-        ""
+      else null
     catch
       callback e
