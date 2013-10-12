@@ -1,4 +1,4 @@
-### Deprecated since Brunch1.7 integrates Bower.
+# Deprecated since Brunch1.7 integrates Bower.
 
 
 Some Stylesheet Brunch
